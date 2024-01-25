@@ -1,1 +1,18 @@
 // for getting into the git in any file use - git init.
+
+
+//git status- will show you stasus of files
+
+
+//git add. - will add all the files
+
+
+//git add <filename>
+
+
+//for committing we use
+
+git commit -m "Your commit message"
+
+
+// use git log  to look the commits
