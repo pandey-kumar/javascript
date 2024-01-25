@@ -1,0 +1,1 @@
+// for getting into the git in any file use - git init.
